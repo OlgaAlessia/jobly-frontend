@@ -1,0 +1,5 @@
+.SearchForm-row{
+    display: grid;
+    column-gap: 30px;
+    grid-column-gap: 30px;
+}
